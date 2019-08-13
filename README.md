@@ -1,7 +1,8 @@
 # ASP.NET MVC QQ Connect
 
 #### 介绍
-ASP.NET MVC QQ互联接入Demo。
+ASP.NET MVC QQ互联接入Demo。<br>
+项目地址：[https://gitee.com/Liu_Cabbage/ASP.NET-MVC-QQ-Connect](https://gitee.com/Liu_Cabbage/ASP.NET-MVC-QQ-Connect)
 
 #### 项目说明
 1. 因为个人博客要接入QQ互联，也是第一次玩，不熟悉，所以就先写了这个Demo
